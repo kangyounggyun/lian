@@ -1,0 +1,11 @@
+.scary {
+    width: 60%;
+    float: right;
+}
+.handsome {
+    color: pink;
+}
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+}
